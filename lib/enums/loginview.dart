@@ -1,0 +1,1 @@
+enum LoginView { NUMBER, OTP }

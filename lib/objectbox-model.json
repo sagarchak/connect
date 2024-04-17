@@ -1,0 +1,97 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:3224090724282318136",
+      "lastPropertyId": "14:4424958458519394160",
+      "name": "UserEntity",
+      "properties": [
+        {
+          "id": "1:4696273495434682884",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:1234797916109333726",
+          "name": "custId",
+          "type": 6
+        },
+        {
+          "id": "3:6970914233687984473",
+          "name": "name",
+          "type": 9
+        },
+        {
+          "id": "4:1407924172760771438",
+          "name": "email",
+          "type": 9
+        },
+        {
+          "id": "5:3254452430672648455",
+          "name": "mobile",
+          "type": 9
+        },
+        {
+          "id": "6:7661668766851540118",
+          "name": "address",
+          "type": 9
+        },
+        {
+          "id": "7:3006074680550220853",
+          "name": "dob",
+          "type": 9
+        },
+        {
+          "id": "8:4459813422666588224",
+          "name": "pan",
+          "type": 9
+        },
+        {
+          "id": "9:8874812857803120233",
+          "name": "aadhaar",
+          "type": 9
+        },
+        {
+          "id": "10:7073260830256622560",
+          "name": "image",
+          "type": 9
+        },
+        {
+          "id": "11:6839859384909390480",
+          "name": "aboutMe",
+          "type": 9
+        },
+        {
+          "id": "12:832560979019012638",
+          "name": "points",
+          "type": 6
+        },
+        {
+          "id": "13:794535577515821694",
+          "name": "status",
+          "type": 6
+        },
+        {
+          "id": "14:4424958458519394160",
+          "name": "updatedAt",
+          "type": 9
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:3224090724282318136",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [],
+  "retiredRelationUids": [],
+  "version": 1
+}

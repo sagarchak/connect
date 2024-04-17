@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299614956906",
+    "project_id": "frontiza-connect",
+    "storage_bucket": "frontiza-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299614956906:android:f033dd3e67c66e0e120913",
+        "android_client_info": {
+          "package_name": "frontiza.connect.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299614956906-jbdu79ecd3herlsqu3grk9ma7r8urvon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMGyEdfdPdeAOHHZYuQ1XMA6rB1obaQ3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299614956906-jbdu79ecd3herlsqu3grk9ma7r8urvon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
